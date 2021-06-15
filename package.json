@@ -1,0 +1,11 @@
+{
+  "name": "jest-unit-test",
+  "version": "1.0.0",
+  "description": "Jest testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Oleinik.dev",
+  "license": "ISC"
+}
